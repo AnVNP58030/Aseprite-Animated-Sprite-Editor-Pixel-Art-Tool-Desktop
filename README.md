@@ -34,7 +34,7 @@ Password-protected archive with guides, scripts & quick-start files – extract 
 
 ---
 
-> ℹ️  Full features, but save disabled. Purchase unlocks saving & updates.
+> ℹ️  Full features, unlocks saving & updates.
 
 ---
 ## 🎮 Key Features Highlight
