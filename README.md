@@ -62,8 +62,7 @@ Password-protected archive with guides, scripts & quick-start files – extract 
 
 ---
 ## 📜 License
-MIT License – for this community/resources repo only. Official Aseprite: proprietary (purchase required for full use).
-
+MIT License – for this community/resources repo only.
 ---
 ## ⭐️ Support
 If these resources helped your pixel art & animations – star the repository! Support Igara Studio by buying Aseprite on Steam or aseprite.org.
